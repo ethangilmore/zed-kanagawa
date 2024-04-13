@@ -1,0 +1,7 @@
+{
+  "name": "Kanagawa Themes",
+  "version": "0.0.1",
+  "authors": ["Ethan Gilmore <ethanmckgilmore@gmail.com>"],
+  "description": "🌊 Zed port of rebelot's Kanagawa.nvim theme",
+  "repository": "https://github.com/ethangilmore/zed-kanagawa"
+}
